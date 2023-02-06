@@ -6,7 +6,7 @@
 
    
 
-   # Author: Charles obuseh (Harles Microfinance)
+   # Author: Ochells (Harles Microfinance)
 
    # Additional Authors:
 
